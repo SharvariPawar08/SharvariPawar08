@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Sharvari Pawar
 
-<!--
-**SharvariPawar08/SharvariPawar08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Machine Learning | Generative AI | Cloud
 
-Here are some ideas to get you started:
+I am passionate about building AI-powered applications, machine learning models, and scalable cloud-based AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+- Machine Learning Projects
+- NLP Applications
+- Generative AI Solutions
+
+Tech Stack
+
+Programming
+Python | SQL | JavaScript
+
+Machine Learning
+Scikit-learn | TensorFlow | PyTorch | Pandas | NumPy
+
+AI / NLP
+NLTK | spaCy | Prompt Engineering | LLM Applications
+
+Cloud & DevOps
+Azure | AWS | Docker | Kubernetes | CI/CD | Git
+
+AI Projects
+
+Customer Churn Prediction ML Model  
+Machine learning model predicting customer churn using Python and Scikit-learn.
+
+Resume Screening AI  
+NLP-based system that matches resumes with job descriptions.
+
+AI Document Q&A Chatbot  
+Retrieval-based chatbot answering questions from documents.
+
+Connect with me
+
+LinkedIn  
+linkedin.com/in/sharvaripawar-346376240
